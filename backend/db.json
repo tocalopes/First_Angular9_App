@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIc",
+      "price": 5.45
+    },
+    {
+      "id": 2,
+      "name": "Copo do curintia",
+      "price": 7.95
+    },
+    {
+      "id": 3,
+      "name": "Leno s45",
+      "price": 5000.25
+    },
+    {
+      "id": 4
+    }
+  ]
+}
